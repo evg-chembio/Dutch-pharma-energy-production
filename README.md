@@ -2,7 +2,9 @@
 Analysis of Dutch pharmaceuticals production vs energy consumption (2011–2024). Includes data download, preprocessing, trend analysis, and visualization.
 
 Project Summary
+
 Question and insight
+
 This project asks whether production growth in the Dutch pharmaceuticals manufacturing sector 
 has outpaced energy consumption between 2011 and 2024. 
 Using CBS open data for sector production and sector energy consumption, the analysis normalizes both series 
