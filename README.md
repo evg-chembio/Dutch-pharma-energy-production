@@ -18,7 +18,7 @@ Environment
 - Python 3.9 or later is recommended.
 - Create an isolated environment before installing dependencies.
 
-Example requirements.txt
+
 requests>=2.25.0
 numpy>=1.21.0
 matplotlib>=3.4.0
